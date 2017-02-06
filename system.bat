@@ -1,0 +1,1 @@
+system -l equihash.usa.nicehash.com:3357 -u 3JPKAdoYRX2UrrNbDwSaifGAqhursK6D5v -p x -t 1
